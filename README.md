@@ -8,7 +8,7 @@
 
 #引入到你的项目
 -------------------
-copy BallView.java 和 mipmap-xxhdpi里面的图片到项目中即可
+**copy** BallView.java 和 mipmap-xxhdpi里面的图片到项目中即可
 
 #用法
 -------------------
